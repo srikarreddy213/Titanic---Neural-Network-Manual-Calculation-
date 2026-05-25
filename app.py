@@ -1,17 +1,4 @@
-# Titanic Neural Network Manual Calculation — Streamlit Project
 
-## Folder Structure
-
-```bash
-Titanic-Neural-Network/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── data.csv
-```
-
----
 
 # 1. app.py
 
